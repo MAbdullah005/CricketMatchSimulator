@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     srand(time(0));
 
-    std::vector<std::string> team_1_names = {
+    vector<string> team_1_names = {
         "Babar Azam", "Naseem Shah", "Agha Salman", "Mohammad Amir", "Shaheen Afridi",
         "Shadab Khan", "Imad Wasim", "Fakar Zaman", "Haris Rauf", "Mohammad Rizwan", "Iftikhar Ahmad"
     };
